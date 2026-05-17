@@ -1,0 +1,18 @@
+body {
+  background-color: aquamarine, bisque, goldenrod;
+  background-image: url(./img2.jpg);
+  background-size: 100%;
+}
+.di_chuot:active {
+  color: brown;
+  font: size 30px;
+}
+.click_me:link {
+  color: chocolate;
+}
+.click_me:visited {
+  color: brown;
+}
+p:first-of-type {
+  color: darkolivegreen;
+}
